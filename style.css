@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(rgba(140, 142, 246, 0.3),rgba(140, 142, 246, 0.3));
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 300px;
+    margin-top: 70px;
+}
+
+.btn{
+    display: inline-block;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 100px;
+    
+}
+
+#decreaseBtn{
+    margin-right: 30px;
+    border-radius: 2px;
+}
+
+#resetBtn{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 2px;
+}
+
+#increaseBtn{
+    margin-left: 30px;
+    border-radius: 2px;
+}
+
+#decreaseBtn:hover{
+    transform: scale(2.0);
+}
+
+#resetBtn:hover{
+    transform: scale(2.0);
+    
+}
+
+
+#increaseBtn:hover{
+    transform: scale(2.0);
+}
+
+
